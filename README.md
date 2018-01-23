@@ -7,3 +7,6 @@ int main()
   cout << "hey world";
   return 0;
 }
+
+
+print("Sup, Cristian");
